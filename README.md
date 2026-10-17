@@ -14,3 +14,8 @@ Run: `python organiser1.py`
 Reads a sales CSV with pandas, calculates revenue per product and per day, and saves charts.
 Put your own `sales.csv` in `test_folder/Spreadsheets/` with the columns: date, product, quantity, price.
 Run: `python sales_report.py`
+
+
+## Weather tool
+Type a city name and get the current temperature and wind speed, using the free Open-Meteo API (no key needed).
+Run: `python weather.py`
