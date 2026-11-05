@@ -1,0 +1,5 @@
+2026-11-02 19:54:52,265 - INFO - Read 9 rows, kept 8, rejected 1 
+2026-11-02 19:57:01,304 - INFO - Read 9 rows, kept 8, rejected 1 
+2026-11-03 18:29:25,353 - INFO - Read 9 rows, kept 8, rejected 1 
+2026-11-03 18:30:38,492 - INFO - Read 10 rows, kept 8, rejected 2 
+2026-11-03 18:31:20,796 - ERROR - Input file not found 
